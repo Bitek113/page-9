@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-page {
+    height: 86vh;
+    background-image: url(img/bg-masthead.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+form{
+    width: 80%;
+
+}
+
+i {
+    font-size: 4rem;
+}
+
+.card {
+    border: none;
+}
+
+.pre-footer {
+    height: 50vh;
+    overflow: hidden;;
+    background-image: url(img/bg-masthead.jpg);
+    background-size: cover;
+    background-position: center;
+}
